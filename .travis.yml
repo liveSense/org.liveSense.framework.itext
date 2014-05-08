@@ -8,5 +8,5 @@ script:
 - mvn deploy --settings target/travis/settings.xml
 env:
   global:
-  - secure: KRhqEJ4fGMd2juCqLkjhFzsM12z6+sjKuZeyn6VeGKcRu2q0FWvoxVjRxmvF34Wa+xeNGBCuUqqBp74L5wYl7x7e92tEFPi2SnJM2LAxHG6i+Txsi6B7E9t8exAT2FboywRWHLe80K73Kr39khNIS1sZMre81QxuflhilVREZqM=
-  - secure: C4TWViVSZotOWXB8VhV/Aqgj2HpkDt+1waKAI4Gnt7FlTHquKFNrW62W/Cg+HddfMkVQqBSKZWI0BhVogMRE8v5wLX7yA7o3cJIAcO+ypJg5rchs74fH1gook9XPb8jE1jpJ8gG/XzbAONVb3xwULLT10xPWaknZgjntVvvR3E0=
+  - secure: zmVYHI3AjH2FOmcJOy82oaA/lRWi6T9CriQhJe58MJMhviEA42rv88/KXcGi423W8hAT7eRqnC6Vo5R1X+5POMaqxJY6V6G3cj0fwKEyJfiS7EBp4OUUFkJJXJfIBN6UYJr6wFJUqrAwFBd1+X/NeKIfgxSc8g/dQPxtTRfks1o=
+  - secure: cJJIOK5lC0rphD7wkn/Di3un5OwNYhQE1AkPPpZWLIU0gk+RNs2c1rHwk1DJTBcq7cxDpV22B5s4tTfJtpfsaTD2qT9v/OZfrAS48EE1p8IpUPanidegEN3VRbyUBoiJDvwB04+u0EVz6oVUZNRiMnPLg/nDpKoeJfgK7xXufdM=
