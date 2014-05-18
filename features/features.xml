@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><features name="liveSense-${liveSense.version}-framework-odfdom" xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
-	<feature name="liveSense-framework-odfdom" version="${project.version}" description="liveSense framework jasperreports">
-        <bundle>mvn:${project.groupId}/${project.artifactId}/${liveSense.framework.jasperreports.version}</bundle>
+<?xml version="1.0" encoding="UTF-8"?><features name="liveSense-${liveSense.version}-framework-itext" xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
+	<feature name="liveSense-framework-itext" version="${project.version}" description="iText framework for PDF generation">
+        <feature>apache-commons</feature>
+        <feature>bouncycastle-commons</feature>
+        <bundle>mvn:${project.groupId}/${project.artifactId}/${liveSense.framework.itext.version}</bundle>
 	</feature>
 </features>
