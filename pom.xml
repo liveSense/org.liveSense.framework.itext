@@ -25,6 +25,8 @@
 		<version>1.0.4-SNAPSHOT</version>
 		<relativePath>..</relativePath>
 	</parent>
+    <version>1.0.4-SNAPSHOT</version>
+
 	<properties>
 		<itext.version>2.1.7</itext.version>
 	</properties>
