@@ -25,7 +25,7 @@
 		<version>1.0.5</version>
 		<relativePath>..</relativePath>
 	</parent>
-    <version>1.0.5-SNAPSHOT</version>
+    <version>1.0.5</version>
 
 	<properties>
 		<itext.version>2.1.7</itext.version>
@@ -34,7 +34,7 @@
 		<connection>scm:git:https://github.com/liveSense/org.liveSense.framework.itext.git</connection>
 		<developerConnection>scm:git:https://github.com/liveSense/org.liveSense.framework.itext.git</developerConnection>
 		<url>https://github.com/liveSense/org.liveSense.framework.itext</url>
-	  <tag>HEAD</tag>
+	  <tag>1.0.5</tag>
   </scm>
 
 	<artifactId>org.liveSense.framework.itext</artifactId>
